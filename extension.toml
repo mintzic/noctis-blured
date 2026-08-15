@@ -1,7 +1,7 @@
 id = "noctis"
 name = "Noctis"
-version = "0.0.1"
+version = "0.1.0"
 schema_version = 1
 authors = ["mintzic"]
-description = "Original Noctis from vscode ported to zed"
-repository = "https://github.com/your-name/my-zed-extension"
+description = "Original Noctis ported to zed with blured/Opaque"
+repository = "https://github.com/mintzic/noctis-blured"
