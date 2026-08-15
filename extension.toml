@@ -1,0 +1,7 @@
+id = "noctis"
+name = "Noctis"
+version = "0.0.1"
+schema_version = 1
+authors = ["mintzic"]
+description = "Original Noctis from vscode ported to zed"
+repository = "https://github.com/your-name/my-zed-extension"
