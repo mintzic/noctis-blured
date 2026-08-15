@@ -1,21 +1,13 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Noctis",
+  "name": "Noctis Blured/Opaque",
   "author": "mintzic",
   "themes": [
     {
       "name": "Noctis Viola - opaque",
       "appearance": "dark",
       "style": {
-        "accents": [
-          "#df769b8C",
-          "#e4b7818C",
-          "#49e9a68C",
-          "#7060eb8C",
-          "#16a3b68C",
-          "#49d6e98C",
-          "#e665338C"
-        ],
+        "accents": ["#df769b8C", "#e4b7818C", "#49e9a68C", "#7060eb8C", "#16a3b68C", "#49d6e98C", "#e665338C"],
         "background": "#30243dFF",
         "background.appearance": "opaque",
         "border": "#1c1226E3",
@@ -382,15 +374,7 @@
       "name": "Noctis Viola - blurred",
       "appearance": "dark",
       "style": {
-        "accents": [
-          "#df769b57",
-          "#e4b78157",
-          "#49e9a657",
-          "#7060eb57",
-          "#16a3b657",
-          "#49d6e957",
-          "#e6653357"
-        ],
+        "accents": ["#df769b57", "#e4b78157", "#49e9a657", "#7060eb57", "#16a3b657", "#49d6e957", "#e6653357"],
         "background": "#30243dE3",
         "background.appearance": "blurred",
         "border": "#1c12268C",
@@ -757,15 +741,7 @@
       "name": "Noctis Bordo - opaque",
       "appearance": "dark",
       "style": {
-        "accents": [
-          "#df769b8C",
-          "#e4b7818C",
-          "#49e9a68C",
-          "#7060eb8C",
-          "#16a3b68C",
-          "#49d6e98C",
-          "#e665338C"
-        ],
+        "accents": ["#df769b8C", "#e4b7818C", "#49e9a68C", "#7060eb8C", "#16a3b68C", "#49d6e98C", "#e665338C"],
         "background": "#322a2dFF",
         "background.appearance": "opaque",
         "border": "#1f191bE3",
@@ -1132,15 +1108,7 @@
       "name": "Noctis Bordo - blurred",
       "appearance": "dark",
       "style": {
-        "accents": [
-          "#df769b57",
-          "#e4b78157",
-          "#49e9a657",
-          "#7060eb57",
-          "#16a3b657",
-          "#49d6e957",
-          "#e6653357"
-        ],
+        "accents": ["#df769b57", "#e4b78157", "#49e9a657", "#7060eb57", "#16a3b657", "#49d6e957", "#e6653357"],
         "background": "#322a2dE3",
         "background.appearance": "blurred",
         "border": "#1f191b8C",
@@ -1507,15 +1475,7 @@
       "name": "Noctis Obscuro - opaque",
       "appearance": "dark",
       "style": {
-        "accents": [
-          "#df769b8C",
-          "#e4b7818C",
-          "#49e9a68C",
-          "#7060eb8C",
-          "#16a3b68C",
-          "#49d6e98C",
-          "#e665338C"
-        ],
+        "accents": ["#df769b8C", "#e4b7818C", "#49e9a68C", "#7060eb8C", "#16a3b68C", "#49d6e98C", "#e665338C"],
         "background": "#031417FF",
         "background.appearance": "opaque",
         "border": "#0f1415E3",
@@ -1882,15 +1842,7 @@
       "name": "Noctis Obscuro - blurred",
       "appearance": "dark",
       "style": {
-        "accents": [
-          "#df769b57",
-          "#e4b78157",
-          "#49e9a657",
-          "#7060eb57",
-          "#16a3b657",
-          "#49d6e957",
-          "#e6653357"
-        ],
+        "accents": ["#df769b57", "#e4b78157", "#49e9a657", "#7060eb57", "#16a3b657", "#49d6e957", "#e6653357"],
         "background": "#031417E3",
         "background.appearance": "blurred",
         "border": "#0f14158C",
